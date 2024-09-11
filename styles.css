@@ -1,0 +1,22 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+#landing-page-container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1, p, button {
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
